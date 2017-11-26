@@ -17,7 +17,7 @@ Documentation and general files for DB-GUI Project 2017 Fall
 
 ##Repository & Links
 
-- [General Repository](https://github.com/ignighte/ignighte-general)
+- [General Information](https://ignighte.github.io/ignighte-general/)
 - [Frontend Repository](https://github.com/ignighte/ignighte-frontend)
 - [Backend Repository](https://github.com/smutranchi/DB-GUI-2017/tree/master/backend)
 
