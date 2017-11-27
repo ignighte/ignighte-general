@@ -27,4 +27,3 @@ Documentation and general files for DB-GUI Project 2017 Fall
 - [Development Team Documents](https://github.com/ignighte/ignighte-general/tree/master/Development)
 - [Final Presentation](https://docs.google.com/presentation/d/1-AgUVABg4ZgLyqGFLFfoLBsiMzsDZ_rY3udDpC6eZxs/edit#slide=id.gc6f80d1ff_0_0)
 
-
