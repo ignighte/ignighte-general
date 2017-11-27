@@ -3,13 +3,13 @@ Documentation and general files for DB-GUI Project 2017 Fall
 
 ## Team
 
-### Frontend
+#### Frontend
 
 - Assmusen, Chris
 - Lee, Seung Ki
 - Wagner, Matthew
 
-### Backend
+#### Backend
 
 - Keehan, Rob
 - Simon, Rick
